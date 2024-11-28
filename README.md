@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project in Jonas Course
+Main project in Jonas Course. Built with React Query and Supabase
